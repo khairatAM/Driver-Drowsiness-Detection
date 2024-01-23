@@ -1,2 +1,2 @@
 # Driver-Drowsiness-Detection
-The project employs face detection techniques to alert a vehicle driver when they have fallen asleep behind the wheel.
+Lack of sleep has been reported to be directly related to an increased tisk of road accidents. This project employs face detection techniques to alert a vehicle driver when they display signs of drowsiness behind the wheel.
